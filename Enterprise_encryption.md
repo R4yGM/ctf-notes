@@ -33,3 +33,7 @@ p.stream()
 ```
 
 flag{}
+
+
+references : https://ctftime.org/writeup/27928
+https://0xrick.github.io/binary-exploitation/bof2/
